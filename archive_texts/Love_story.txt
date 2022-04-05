@@ -1,0 +1,11 @@
+There once was a/an [ADJECTIVE] boy named [MALE_NAME] 
+and a/an [ADJECTIVE] girl named [FEMALE_NAME]. They met at
+[PLACE] and fell madly in love! When they got 
+married, their wedding was [ADJECTIVE] and [ADJECTIVE]!
+They recieved lots of [ADJECTIVE] advice from their
+family and friens, but the [ADJECTIVE] advice
+they were given was to always [VERB] before
+[NOUN], and [VERB] after
+[NOUN]. [MALE_NAME-THE_SAME_AS_BEFORE] should always [VERB] [FEMALE_NAME-THE_SAME_AS_BEFORE]'s
+[NOUN] and [FEMALE_NAME-THE_SAME_AS_BEFORE] should [VERB] Josh's [NOUN].
+Because of this, [MALE_NAME-THE_SAME_AS_BEFORE] and [FEMALE_NAME-THE_SAME_AS_BEFORE] lived happily ever after!
